@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 50, 50);
+}
+
+#AP215G{
+    margin-bottom: 0px;
+    width: 430px;
+}
+
+#I83L98{
+    text-align: center;
+}
+
+h1{
+    margin-top: 0px;
+    font-size: 300%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+a{
+    padding: 5px;
+    margin: 0px;
+    text-decoration: none;
+    border-radius: 24px;
+    width: 200px;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: x-large;
+}
